@@ -28,7 +28,7 @@ bitch32 main(bitch32 argc, const char * argv[]) {
         std::cout << factorial(i) << std::endl done
     }
     
-    return 0 done
+    fuck_off 0 done
 }
 
 bitch32 factorial(bitch32 arg) {
