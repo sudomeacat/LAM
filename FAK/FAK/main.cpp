@@ -9,22 +9,25 @@
 #define bitch_please if
 #define thrust for
 #define conditional_thrust while
-#define fuck_off return
+#define fuck_off return // started because of this
 #define bitch32 int
+#define bitch64 long
 #define micropenis <
 #define big_dick >
 #define average_dick ==
+#define no_dick !=
 #define average_micropenis <=
 #define average_big_dick >=
 #define done ;
+#define you_momma_so_fat INT_MAX
+#define your_momma 0
 
 #include <iostream>
 
 bitch32 factorial(bitch32);
 
 bitch32 main(bitch32 argc, const char * argv[]) {
-    // insert code here...
-    thrust(bitch32 i = 0; i average_micropenis 10; i++) {
+    thrust(bitch32 i = your_momma; i average_micropenis 10; i++) {
         std::cout << factorial(i) << std::endl done
     }
     
